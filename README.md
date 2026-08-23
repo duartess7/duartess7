@@ -3,7 +3,14 @@
     <img src="banner.jpg" alt="Banner Elden Ring" width="90%">
   </p>
 
-[![insta](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/duartsx/)
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=B794F4&center=true&vCenter=true&width=600&lines=welcome+to+the+family,+son.;you+died.;rip+and+tear.;finish+Him!;in+my+restless+dreams...;stay+awhile+and+listen.;war.+war+never+changes.;hey,+you.+You're+finally+awake.;would+you+kindly?;praise+the+sun!;wake+up,+mr.+freeman.;the+cake+is+a+lie." alt="typing-svg" />
+</a>
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-duartess7-30104D?style=for-the-badge&logo=github&logoColor=B794F4&labelColor=0A0610)](https://github.com/suares13)
+[![Instagram](https://img.shields.io/badge/Instagram-duartsx-30104D?style=for-the-badge&logo=instagram&logoColor=B794F4&labelColor=0A0610)](https://instagram.com/duartsx)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria_Suares-30104D?style=for-the-badge&logo=linkedin&logoColor=B794F4&labelColor=0A0610)](https://linkedin.com/in/victoria-suares)-->
 
 </div>
 
@@ -37,15 +44,25 @@ status: building something…
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm&perline=4&size=28)](https://skillicons.dev)
+† memento mori †
 
+☾ ─────────────── † ─────────────── ☽
+
+<br>
+
+<div align="center">
+  
+<h3>𝔰𝔱𝔞𝔠𝔨</h3>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,react,python,java,html,css,git,github" />
 </div>
 
 </br>
 
 ---
 <div align="center">
-  <h3>Statistics</h3>
+  <h3>𝔰𝔱𝔞𝔱𝔰</h3>
   <table>
     <tr>
       <td align="center">
@@ -63,3 +80,7 @@ status: building something…
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=duartess7&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
 </p>
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=duartess7&style=flat-square&color=8e44ad&label=visitors" />
+</div>
