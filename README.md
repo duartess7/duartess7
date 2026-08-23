@@ -64,28 +64,3 @@ status: building something…
 <div align="center">
   <h3>𝔰𝔱𝔞𝔱𝔰</h3>
 
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" />
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.athulcajay.me/api?username=duartess7&show_icons=true&hide_border=true&hide_title=true&bg_color=050507&title_color=B794F4&icon_color=8B5CF6&text_color=E9E4F0&ring_color=30104D&include_all_commits=true&count_private=true" width="100%"/>
-</td>
-<td width="50%" valign="top">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=duartess7&hide_border=true&background=050507&stroke=30104D&ring=8B5CF6&fire=B794F4&currStreakLabel=B794F4&sideLabels=E9E4F0&currStreakNum=E9E4F0&sideNums=E9E4F0&dates=6B5B8A" width="100%"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.athulcajay.me/api/top-langs/?username=duartess7&layout=compact&hide_border=true&hide_title=true&bg_color=050507&text_color=E9E4F0&langs_count=6&card_width=700" width="70%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=duartess7&bg_color=050507&color=B794F4&line=8B5CF6&point=E9E4F0&area=true&area_color=30104D&hide_border=true&hide_title=true" width="90%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" />
- 
