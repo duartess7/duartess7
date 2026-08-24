@@ -44,7 +44,10 @@ status: building something…
 
 <div align="center">
 
-† memento mori †
+† ʳᵉᵐᵉᵐᵇᵉʳ ʸᵒᵘ ʷⁱˡˡ ᵈⁱᵉ †
+<br><br>
+ₘₑₘₑₙₜₒ ₘₒᵣᵢ
+<br><br>
 
 ☾ ─────────────── † ─────────────── ☽
 
