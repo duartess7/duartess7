@@ -67,3 +67,29 @@ status: building something…
 <div align="center">
   <h3>𝔰𝔱𝔞𝔱𝔰</h3>
 
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" />
+
+<p align="center">
+  <img 
+    src="angel.gif"
+    width="40%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=duartess7&hide_border=true&background=050507&stroke=30104D&ring=8B5CF6&fire=B794F4&currStreakLabel=B794F4&sideLabels=E9E4F0&currStreakNum=E9E4F0&sideNums=E9E4F0&dates=6B5B8A"
+    width="40%"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=duartess7&bg_color=050507&color=B794F4&line=8B5CF6&point=E9E4F0&area=true&area_color=30104D&hide_border=true&hide_title=true"
+    width="90%"
+  />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" />
