@@ -72,14 +72,16 @@ status: building something…
 <h3>𝔫𝔦𝔤𝔥𝔱𝔣𝔞𝔩𝔩 𝔭𝔯𝔬𝔱𝔬𝔠𝔬𝔩</h3>
 
 <p align="center">
-  <img
-    src="./metrics/nightfall.svg"
-    alt="Nightfall Protocol — live GitHub telemetry for duartess7"
-    width="95%"
-  />
+  <a href="https://github.com/duartess7/nightfall-metrics">
+    <img
+      src="https://raw.githubusercontent.com/duartess7/nightfall-metrics/main/metrics/nightfall.svg"
+      alt="Nightfall Protocol — live GitHub telemetry for duartess7"
+      width="95%"
+    />
+  </a>
 </p>
 
-<sub>automatically regenerated every night from the GitHub API</sub>
+<sub>automatically regenerated every night · <a href="https://github.com/duartess7/nightfall-metrics">source & authorship</a></sub>
 
 <br><br>
 
