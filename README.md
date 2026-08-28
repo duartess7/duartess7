@@ -66,3 +66,21 @@ status: building something…
 ---
 <div align="center">
   <h3>𝔰𝔱𝔞𝔱𝔰</h3>
+
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" />
+
+<h3>𝔫𝔦𝔤𝔥𝔱𝔣𝔞𝔩𝔩 𝔭𝔯𝔬𝔱𝔬𝔠𝔬𝔩</h3>
+
+<p align="center">
+  <img
+    src="./metrics/nightfall.svg"
+    alt="Nightfall Protocol — live GitHub telemetry for duartess7"
+    width="95%"
+  />
+</p>
+
+<sub>automatically regenerated every night from the GitHub API</sub>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" />
