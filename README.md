@@ -105,3 +105,21 @@ status: building something…
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" />
+
+<br>
+
+<h3>𝔣𝔢𝔞𝔱𝔲𝔯𝔢𝔡 𝔭𝔯𝔬𝔧𝔢𝔠𝔱</h3>
+
+<a href="https://github.com/duartess7/windows-95-portfolio">
+  <img
+    src="https://raw.githubusercontent.com/duartess7/windows-95-portfolio/main/public/og.png"
+    alt="Windows 95 Portfolio — projeto em destaque"
+    width="90%"
+  />
+</a>
+
+<p>
+  <a href="https://github.com/duartess7/windows-95-portfolio">
+    <img src="https://img.shields.io/badge/OPEN_PROJECT-WINDOWS_95_PORTFOLIO-30104D?style=for-the-badge&logo=windows95&logoColor=B794F4&labelColor=0A0610" alt="Abrir Windows 95 Portfolio" />
+  </a>
+</p>
