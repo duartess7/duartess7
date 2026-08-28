@@ -85,4 +85,20 @@ status: building something…
 
 <br><br>
 
+<h3>𝔫𝔦𝔤𝔥𝔱𝔣𝔞𝔩𝔩 𝔰𝔢𝔯𝔭𝔢𝔫𝔱</h3>
+
+<p align="center">
+  <a href="https://github.com/duartess7/nightfall-snake">
+    <img
+      src="https://raw.githubusercontent.com/duartess7/nightfall-snake/main/dist/nightfall-snake.svg"
+      alt="Nightfall Snake consuming the GitHub contributions of duartess7"
+      width="95%"
+    />
+  </a>
+</p>
+
+<sub>original TypeScript engine · contributions consumed daily · <a href="https://github.com/duartess7/nightfall-snake">source & authorship</a></sub>
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" />
