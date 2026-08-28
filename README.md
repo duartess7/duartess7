@@ -8,7 +8,7 @@
 </a>
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-duartess7-30104D?style=for-the-badge&logo=github&logoColor=B794F4&labelColor=0A0610)](https://github.com/suares13)
+[![GitHub](https://img.shields.io/badge/GitHub-duartess7-30104D?style=for-the-badge&logo=github&logoColor=B794F4&labelColor=0A0610)](https://github.com/duartess7)
 [![Instagram](https://img.shields.io/badge/Instagram-duartsx-30104D?style=for-the-badge&logo=instagram&logoColor=B794F4&labelColor=0A0610)](https://instagram.com/duartsx)
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria_Suares-30104D?style=for-the-badge&logo=linkedin&logoColor=B794F4&labelColor=0A0610)](https://linkedin.com/in/victoria-suares)-->
 
@@ -68,6 +68,18 @@ status: building something…
   <h3>𝔰𝔱𝔞𝔱𝔰</h3>
 
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" />
+
+<h3>𝔤𝔦𝔱𝔥𝔲𝔟 𝔪𝔢𝔱𝔯𝔦𝔠𝔰</h3>
+
+<p align="center">
+  <picture>
+    <img
+      src="https://metrics.lecoq.io/duartess7"
+      alt="GitHub metrics for duartess7"
+      width="90%"
+    />
+  </picture>
+</p>
 
 <p align="center">
   <img 
