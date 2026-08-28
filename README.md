@@ -9,7 +9,7 @@
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-duartess7-30104D?style=for-the-badge&logo=github&logoColor=B794F4&labelColor=0A0610)](https://github.com/duartess7)
-[![Instagram](https://img.shields.io/badge/Instagram-duartsx-30104D?style=for-the-badge&logo=instagram&logoColor=B794F4&labelColor=0A0610)](https://instagram.com/duartsx)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-duartsx-30104D?style=for-the-badge&logo=instagram&logoColor=B794F4&labelColor=0A0610)](https://instagram.com/duartsx) -->
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victoria_Suares-30104D?style=for-the-badge&logo=linkedin&logoColor=B794F4&labelColor=0A0610)](https://linkedin.com/in/victoria-suares)-->
 
 </div>
@@ -66,60 +66,3 @@ status: building something…
 ---
 <div align="center">
   <h3>𝔰𝔱𝔞𝔱𝔰</h3>
-
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" />
-
-<h3>𝔤𝔦𝔱𝔥𝔲𝔟 𝔪𝔢𝔱𝔯𝔦𝔠𝔰</h3>
-
-<p align="center">
-  <picture>
-    <img
-      src="https://metrics.lecoq.io/duartess7"
-      alt="GitHub metrics for duartess7"
-      width="90%"
-    />
-  </picture>
-</p>
-
-<p align="center">
-  <img 
-    src="angel.gif"
-    width="40%"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=duartess7&hide_border=true&background=050507&stroke=30104D&ring=8B5CF6&fire=B794F4&currStreakLabel=B794F4&sideLabels=E9E4F0&currStreakNum=E9E4F0&sideNums=E9E4F0&dates=6B5B8A"
-    width="40%"
-  />
-</p>
-
-<br>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=duartess7&bg_color=050507&color=B794F4&line=8B5CF6&point=E9E4F0&area=true&area_color=30104D&hide_border=true&hide_title=true"
-    width="90%"
-  />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" />
-
-<br>
-
-<h3>𝔣𝔢𝔞𝔱𝔲𝔯𝔢𝔡 𝔭𝔯𝔬𝔧𝔢𝔠𝔱</h3>
-
-<a href="https://github.com/duartess7/windows-95-portfolio">
-  <img
-    src="https://raw.githubusercontent.com/duartess7/windows-95-portfolio/main/public/og.png"
-    alt="Windows 95 Portfolio — projeto em destaque"
-    width="90%"
-  />
-</a>
-
-<p>
-  <a href="https://github.com/duartess7/windows-95-portfolio">
-    <img src="https://img.shields.io/badge/OPEN_PROJECT-WINDOWS_95_PORTFOLIO-30104D?style=for-the-badge&logo=windows95&logoColor=B794F4&labelColor=0A0610" alt="Abrir Windows 95 Portfolio" />
-  </a>
-</p>
