@@ -74,28 +74,14 @@ status: building something…
 <p align="center">
   <a href="https://github.com/duartess7/nightfall-metrics">
     <img
-      src="https://raw.githubusercontent.com/duartess7/nightfall-metrics/main/metrics/nightfall.svg"
-      alt="Nightfall Protocol — live GitHub telemetry for duartess7"
+      src="https://raw.githubusercontent.com/duartess7/nightfall-metrics/main/metrics/overview.svg"
+      alt="Nightfall Protocol and Language Spectrum — live GitHub telemetry for duartess7"
       width="95%"
     />
   </a>
 </p>
 
-<sub>automatically regenerated every night · <a href="https://github.com/duartess7/nightfall-metrics">source & authorship</a></sub>
-
-<br><br>
-
-<p align="center">
-  <a href="https://github.com/duartess7/nightfall-metrics">
-    <img
-      src="https://raw.githubusercontent.com/duartess7/nightfall-metrics/main/metrics/languages.svg"
-      alt="Language Spectrum — public GitHub languages for duartess7"
-      width="95%"
-    />
-  </a>
-</p>
-
-<sub>language distribution across public owned repositories · forks excluded</sub>
+<sub>live telemetry + public language spectrum · automatically regenerated every night · <a href="https://github.com/duartess7/nightfall-metrics">source & authorship</a></sub>
 
 <br><br>
 
