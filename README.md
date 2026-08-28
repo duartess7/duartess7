@@ -85,4 +85,18 @@ status: building something…
 
 <br><br>
 
+<p align="center">
+  <a href="https://github.com/duartess7/nightfall-metrics">
+    <img
+      src="https://raw.githubusercontent.com/duartess7/nightfall-metrics/main/metrics/languages.svg"
+      alt="Language Spectrum — public GitHub languages for duartess7"
+      width="95%"
+    />
+  </a>
+</p>
+
+<sub>language distribution across public owned repositories · forks excluded</sub>
+
+<br><br>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" />
