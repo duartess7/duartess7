@@ -74,7 +74,7 @@ status: building something…
 <p align="center">
   <a href="https://github.com/duartess7/nightfall-metrics">
     <img
-      src="https://raw.githubusercontent.com/duartess7/nightfall-metrics/main/metrics/overview.svg?v=20260828-3"
+      src="https://raw.githubusercontent.com/duartess7/nightfall-metrics/main/metrics/profile.svg"
       alt="Nightfall Protocol and Language Spectrum — live GitHub telemetry for duartess7"
       width="95%"
     />
