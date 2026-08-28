@@ -97,7 +97,7 @@ status: building something…
   </a>
 </p>
 
-<sub>original TypeScript engine · contributions consumed daily · <a href="https://github.com/duartess7/nightfall-snake">source & authorship</a></sub>
+<sub>powered by <a href="https://github.com/Platane/snk">Platane/snk</a> · Nightfall palette · refreshed daily · <a href="https://github.com/duartess7/nightfall-snake">configuration</a></sub>
 
 <br><br>
 
