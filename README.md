@@ -65,9 +65,9 @@ status: building something…
 
 ---
 <div align="center">
-  <h3>𝔰𝔱𝔞𝔱𝔰</h3>
+ <!--- <h3>𝔰𝔱𝔞𝔱𝔰</h3>
 
- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" />
+<!--- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px" /> -->
 
 <h3>𝔫𝔦𝔤𝔥𝔱𝔣𝔞𝔩𝔩 𝔭𝔯𝔬𝔱𝔬𝔠𝔬𝔩</h3>
 
